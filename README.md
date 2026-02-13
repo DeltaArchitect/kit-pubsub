@@ -1,5 +1,9 @@
 # kit-pubsub
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/DeltaArchitect/kit-pubsub)](https://goreportcard.com/report/github.com/DeltaArchitect/kit-pubsub)
+[![codecov](https://codecov.io/gh/DeltaArchitect/kit-pubsub/branch/main/graph/badge.svg)](https://codecov.io/gh/DeltaArchitect/kit-pubsub)
+[![Go Reference](https://pkg.go.dev/badge/github.com/DeltaArchitect/kit-pubsub.svg)](https://pkg.go.dev/github.com/DeltaArchitect/kit-pubsub)
+
 A simplified, testable Pub/Sub V2 client wrapper for Go.
 
 ## Installation
