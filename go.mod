@@ -5,7 +5,7 @@ go 1.26
 require (
 	cloud.google.com/go/pubsub v1.50.1
 	google.golang.org/api v0.266.0
-	google.golang.org/grpc v1.79.1
+	google.golang.org/grpc v1.79.2
 )
 
 require (
